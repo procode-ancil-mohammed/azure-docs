@@ -23,7 +23,7 @@ To use the ACL integration, your client application must assume the identity of 
 
 ## Scope of availability
 
-| Tier         | Basic, Standard, Premium | Enterprise, Enterprise Flash |
+| Tier         | Standard, Premium | Basic, Enterprise, Enterprise Flash |
 |:-----------------|:------------------------:|:----------------------------:|
 | Availability | Yes             | No                           |
 
